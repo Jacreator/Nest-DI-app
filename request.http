@@ -1,0 +1,2 @@
+# test run with the run
+GET http://localhost:3000/computer
